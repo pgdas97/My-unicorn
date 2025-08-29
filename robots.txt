@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://pgdas97.github.io/my- unicorn/sitemap.xml
