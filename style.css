@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background: linear-gradient(to bottom, #fbeaff, #e0c3fc);
+    text-align: center;
+    color: #6a1b9a;
+}
+
+.container {
+    padding: 50px;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+
+.unicorn-img {
+    width: 250px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px #ffb6f9;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: 1.2em;
+}
+
+li {
+    margin: 10px 0;
+}
+
+.footer {
+    margin-top: 40px;
+    font-size: 1em;
+    color: #ab47bc;
+}
